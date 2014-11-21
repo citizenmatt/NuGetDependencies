@@ -1,0 +1,1 @@
+Simple console app to dump NuGet metadata, given a package

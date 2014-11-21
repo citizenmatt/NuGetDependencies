@@ -1,0 +1,28 @@
+3rdParty/ReSharper_v*
+_ReSharper.*
+3rdParty/dotCover_v*
+[Bb]in
+[Oo]bj
+*.suo
+*.user
+*.cache
+*.docstates
+*.bak
+install/xunitcontrib-*
+install/UnblockZoneIdentifier.exe
+resharper/nuget/*.nupkg
+nuget/nuget.config
+packages
+
+############
+## Windows
+############
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+
+
